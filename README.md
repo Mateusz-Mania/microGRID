@@ -1,4 +1,4 @@
-<center><img src="logo.png"></center>
+<p align="center"><img src="logo.png" width="608" height="152"></p>
 
 # World's Smallest Grid System
 
