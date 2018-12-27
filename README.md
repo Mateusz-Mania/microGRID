@@ -1,3 +1,5 @@
+<img src="logo.png">
+
 # World's Smallest Grid System
 
 <b>microGRID NR</b> is <b style="font-sizex: 16px;">standalone</b>, <b style="font-sizex: 16px;">world's smallest</b> and <b style="font-sizex: 16px;">depedencies free</b> grid system.<br>
